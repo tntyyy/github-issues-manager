@@ -1,0 +1,14 @@
+.wrapper {
+  width: 100%;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 40px;
+
+  padding: 60px 0;
+}
+
+.repositories {
+  margin-top: 60px;
+}
